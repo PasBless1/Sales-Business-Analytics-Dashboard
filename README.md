@@ -1,4 +1,4 @@
-# Sales Business Analytics Dashboard
+# Sales & Business Analytics Dashboard
 
 This project is a comprehensive **Sales and Business Analytics Dashboard** designed to provide insights into business performance. It leverages Power BI to analyze sales data, budgets, and other key business metrics to make informed decisions. The dashboard is designed for both **data visualization** and **business intelligence** purposes, helping businesses track and optimize their performance across different areas.
 
