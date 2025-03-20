@@ -22,5 +22,9 @@ Link to Project: https://app.powerbi.com/groups/me/reports/492ee3ac-64ac-4984-87
 
 
 ![image](https://github.com/user-attachments/assets/5a5dc532-3987-4c2c-8dd6-a5c56a793bc3)
+![image](https://github.com/user-attachments/assets/bc10fea1-93fd-4201-9566-b6acfdd6b3aa)
+![image](https://github.com/user-attachments/assets/9071f6a1-1653-4782-a73d-a68a9b32c8a8)
+
+
 
 
